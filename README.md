@@ -1,2 +1,2 @@
 # Teste
-Gabriel Lopes Pereira
+Gabriel Lopes
